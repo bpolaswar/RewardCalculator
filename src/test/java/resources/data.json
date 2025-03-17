@@ -1,0 +1,10 @@
+{
+  "CUST101": {
+    "monthlyPoint": {
+      "March": 50,
+      "February": 2851,
+      "January": 440
+    },
+    "totalPoint": 3342.0
+  }
+}

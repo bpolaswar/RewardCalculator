@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "custId": "CUST101",
+    "txDate": 1741890600000,
+    "txAmount": 100.0
+  },
+  {
+    "id": 2,
+    "custId": "CUST101",
+    "txDate": 1739385000000,
+    "txAmount": 1500.75
+  },
+  {
+    "id": 3,
+    "custId": "CUST101",
+    "txDate": 1739298600000,
+    "txAmount": 50.5
+  },
+  {
+    "id": 4,
+    "custId": "CUST101",
+    "txDate": 1736533800000,
+    "txAmount": 250.0
+  },
+  {
+    "id": 5,
+    "custId": "CUST101",
+    "txDate": 1736447400000,
+    "txAmount": 120.0
+  }
+]
